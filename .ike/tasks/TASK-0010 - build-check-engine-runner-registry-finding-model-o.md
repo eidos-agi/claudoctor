@@ -1,7 +1,7 @@
 ---
 id: TASK-0010
 title: Build check engine — runner, registry, finding model, output formatter
-status: In Progress
+status: Done
 created: '2026-04-03'
 priority: high
 milestone: MS-0002

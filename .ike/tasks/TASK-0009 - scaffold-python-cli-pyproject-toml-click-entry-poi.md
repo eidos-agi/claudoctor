@@ -1,7 +1,7 @@
 ---
 id: TASK-0009
 title: Scaffold Python CLI — pyproject.toml, click, entry point
-status: In Progress
+status: Done
 created: '2026-04-03'
 priority: high
 milestone: MS-0002
