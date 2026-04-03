@@ -1,0 +1,15 @@
+{
+  "id": "8a9ac5e0-83c1-4759-bcd2-7825b3ff456d",
+  "version": "0.1.0",
+  "projectName": "claudoctor",
+  "created": "2026-04-03",
+  "phase": "research",
+  "transitions": [
+    {
+      "phase": "research",
+      "date": "2026-04-03"
+    }
+  ],
+  "question": "What diagnostic checks matter most for Claude Code environments, and what's the right architecture for a CLI diagnostic tool?",
+  "context": "claudoctor is a diagnostic tool for Claude Code. It detects misconfigurations, permission friction, MCP health issues, CLAUDE.md bloat, memory hygiene problems, session health issues, and context waste. Needs to determine: what checks to implement, what severity model to use, whether to auto-fix or just report, CLI vs MCP vs both, and how to distribute (PyPI, npm, standalone)."
+}
